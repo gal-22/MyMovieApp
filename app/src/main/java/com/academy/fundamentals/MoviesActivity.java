@@ -14,7 +14,7 @@ public class MoviesActivity extends AppCompatActivity implements OnMovieClickLis
     // UI Views
     RecyclerView moviesRv;
 
-    //Objects
+    //Objects/
     ArrayList<MovieModel> movies;
     MoviesViewAdapter moviesAdapter;
 
