@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_title_size">19sp</dimen>
+    <dimen name="im_movie_height">112dp</dimen>
+    <dimen name="im_image_width">81dp</dimen>
+    <dimen name="im_overview">10sp</dimen>
+
+</resources>
